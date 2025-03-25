@@ -16,3 +16,6 @@ approximately 600mA ±100mA from the battery perspective.
 * Provide a 3V3 5% accuracy (300mA max) and 5V Out 5% accuracy (1.5A max)
 * Provide an ON/OFF switch. OFF state: battery draw <30uA. ON state: can provide your robot
 peak current of 2A. The switch needs to shut down 5V and 3V3
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5e079a2-980d-4940-beda-e9e7ffc1cc1f" height="500">
+</p>
