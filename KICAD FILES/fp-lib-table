@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCBLIB_USB-C-TH_MC-324_2025-03-26")(type "EasyEDA / JLCEDA Std")(uri "C:/Users/annaj/Downloads/PCBLIB_USB-C-TH_MC-324_2025-03-26.json")(options "")(descr ""))
+  (lib (name "PCBLIB_SOT-563_L1.6-W1.2-P0.50-LS1.6-BR_2025-03-27")(type "EasyEDA / JLCEDA Std")(uri "C:/Users/annaj/Downloads/PCBLIB_SOT-563_L1.6-W1.2-P0.50-LS1.6-BR_2025-03-27.json")(options "")(descr ""))
+  (lib (name "PCBLIB_SOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP_2025-03-26 (1)")(type "EasyEDA / JLCEDA Std")(uri "C:/Users/annaj/Downloads/PCBLIB_SOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP_2025-03-26 (1).json")(options "")(descr ""))
+  (lib (name "PCBLIB_ETSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP_2025-03-27")(type "EasyEDA / JLCEDA Std")(uri "C:/Users/annaj/Downloads/PCBLIB_ETSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP_2025-03-27.json")(options "")(descr ""))
+  (lib (name "PCBLIB_SW-TH_SHOU-HAN_SS12D10G4_2025-03-27")(type "EasyEDA / JLCEDA Std")(uri "C:/Users/annaj/Downloads/PCBLIB_SW-TH_SHOU-HAN_SS12D10G4_2025-03-27.json")(options "")(descr ""))
+  (lib (name "PCBLIB_USB-C_SMD-TYPE-C-31-M-12_2025-03-27")(type "EasyEDA / JLCEDA Std")(uri "C:/Users/annaj/Downloads/PCBLIB_USB-C_SMD-TYPE-C-31-M-12_2025-03-27.json")(options "")(descr ""))
+  (lib (name "PCBLIB_TYPE-C-USB-23_2025-03-28")(type "EasyEDA / JLCEDA Std")(uri "C:/Users/annaj/Downloads/PCBLIB_TYPE-C-USB-23_2025-03-28.json")(options "")(descr ""))
+)

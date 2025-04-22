@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SCHLIB_TPS61023DRLR_2025-03-27")(type "EasyEDA (JLCEDA) Std")(uri "C:/Users/annaj/Downloads/SCHLIB_TPS61023DRLR_2025-03-27.json")(options "")(descr ""))
+  (lib (name "SCHLIB_TP4056-MS_2025-03-26 (1)")(type "EasyEDA (JLCEDA) Std")(uri "C:/Users/annaj/Downloads/SCHLIB_TP4056-MS_2025-03-26 (1).json")(options "")(descr ""))
+  (lib (name "SCHLIB_DRV8833PWP_C1556089_2025-03-27")(type "EasyEDA (JLCEDA) Std")(uri "C:/Users/annaj/Downloads/SCHLIB_DRV8833PWP_C1556089_2025-03-27.json")(options "")(descr ""))
+  (lib (name "SCHLIB_HX-SS12D10G4_2025-03-27")(type "EasyEDA (JLCEDA) Std")(uri "C:/Users/annaj/Downloads/SCHLIB_HX-SS12D10G4_2025-03-27.json")(options "")(descr ""))
+  (lib (name "SCHLIB_TYPE-C-31-M-12_2025-03-27")(type "EasyEDA (JLCEDA) Std")(uri "C:/Users/annaj/Downloads/SCHLIB_TYPE-C-31-M-12_2025-03-27.json")(options "")(descr ""))
+  (lib (name "SCHLIB_TYPE-C-31-M-05-5_2025-03-28")(type "EasyEDA (JLCEDA) Std")(uri "C:/Users/annaj/Downloads/SCHLIB_TYPE-C-31-M-05-5_2025-03-28.json")(options "")(descr ""))
+)
