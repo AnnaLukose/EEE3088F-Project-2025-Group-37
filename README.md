@@ -4,7 +4,7 @@ Welcome to the repo for group 37's micromouse project!
 The final design kicad files are available in the KICAD FILES folder.
 Previous versions are also available in the draft 1 and draft 2 zip folders.
 
-To view the schematic for our final design, view the Schematic picture above.
+To view the schematic for our final design, view the Schematic pdf above.
 
 This project required us to design a single PCB to fulfill the following power module requirements for a micromouse:
 
@@ -25,3 +25,5 @@ peak current of 2A. The switch needs to shut down 5V and 3V3
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f5e079a2-980d-4940-beda-e9e7ffc1cc1f" height="500">
 </p>
+
+The requirements were split between us, each members files can be found under their corresponding name.
