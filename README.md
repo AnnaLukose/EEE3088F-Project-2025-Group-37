@@ -1,6 +1,12 @@
 # EEE3088F-Project-2025
+Welcome to the repo for group 37's micromouse project!
 
-Design a single PCB to fulfill the following power module requirements for a micromouse:
+The final design kicad files are available in the KICAD FILES folder.
+Previous versions are also available in the draft 1 and draft 2 zip folders.
+
+To view the schematic for our final design, view the Schematic picture above.
+
+This project required us to design a single PCB to fulfill the following power module requirements for a micromouse:
 
 * Operate up to 4 motors bidirectionally with the pins available to you (listed in the power pinout
 table). You will need to control 2x brushed DC motors which could each draw 200mA at the
