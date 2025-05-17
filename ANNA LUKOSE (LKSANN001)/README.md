@@ -7,9 +7,11 @@ The following folder relates to the following subsections of the power sub-syste
 
 To view the schematic focusing on these specific sections open: LKSANN001-Schematic.png
 
-To view the actual schematic:
-1) Copy the following file onto your system:
+Alternatively, to view and edit the actual schematic:
+1) Copy the schematic file onto your local system:
 ```
-git clone 
+wget "https://github.com/AnnaLukose/EEE3088F-Project-2025-Group-37/blob/main/ANNA%20LUKOSE%20(LKSANN001)/LKSANN001.kicad_sch"
 ```
-2) Open the file using KiCad's Schematic Editor to view and edit the file
+Or use any other relevant means
+
+2) Open the file using KiCad's Schematic Editor
