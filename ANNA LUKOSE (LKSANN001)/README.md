@@ -12,4 +12,4 @@ To view the actual schematic:
 ```
 git clone 
 ```
-2) Open the file using KiCad to view and edit the file
+2) Open the file using KiCad's Schematic Editor to view and edit the file
