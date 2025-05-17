@@ -1,4 +1,4 @@
-The following folder relates to the following subsections of the power sub-system:
+This folder relates to the following subsections of the power sub-system:
 * Power switch (toggle switch)
 * Type C connector and negotiator which negotiates 9V out
 * 5V Out Boost converter with >90% efficency at 1A load
